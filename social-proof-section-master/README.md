@@ -1,5 +1,7 @@
 # Frontend Mentor - Social proof section
 
+Just click here to access my work : https://modoukpea.github.io/Social-proof-section-master/social-proof-section-master/
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
